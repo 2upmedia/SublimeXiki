@@ -1,6 +1,8 @@
 Xiki plugin for Sublime Text 2
 ====
 
+Now available [in Package Control](https://sublime.wbond.net/packages/SublimeXiki). Install [Package Control](https://sublime.wbond.net/installation) if you haven't already and [install the  SublimeXiki package](https://sublime.wbond.net/docs/usage).
+
 To use: open the command pallete (`cmd+shift+p` or `ctrl+shift+p`) and use `Create Xiki Buffer`
 
 Hotkeys:
